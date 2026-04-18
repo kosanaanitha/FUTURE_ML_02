@@ -20,3 +20,6 @@ Priority: High
 
 ## Conclusion
 This system helps support teams respond faster by automatically classifying tickets.
+
+## 🎥 Demo Video
+[Watch Dashboard Demo](https://drive.google.com/file/d/175RJbPaDQydYjEcm7mC2QnsWeOpqFYMn/view?usp=sharing)
